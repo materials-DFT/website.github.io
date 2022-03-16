@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-leap-day
 layout: page
 title: "About"
 permalink: /about/
